@@ -13,5 +13,10 @@ In main.tsx import App from
 - "App_io" if SocketIO client is chosen
 
 # Running
-`npm run build`
-`npm run dev`
+- Start application.
+```shell
+npm run build
+npm run dev
+```
+- Open on browser: http://localhost:5173/
+- Click Connect to send connection request.
